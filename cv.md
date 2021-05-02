@@ -24,3 +24,6 @@ software engineer
 Belarus, Polotsk
 laboratory engineer
 
+## English
+
+Good reading and translating ability
